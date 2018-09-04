@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "Cache the response from `got` to a file",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/piuccio/cached-got.git"
+  },
   "scripts": {
     "lint": "eslint --ignore-path .gitignore --ignore-pattern flow-typed .",
     "test": "jest --coverage",
