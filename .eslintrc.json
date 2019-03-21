@@ -1,10 +1,9 @@
 {
-  "parser": "babel-eslint",
   "extends": [
     "eslint:recommended"
   ],
   "parserOptions": {
-    "ecmaVersion": 6
+    "ecmaVersion": 8
   },
   "env": {
     "node": true,
